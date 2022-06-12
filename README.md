@@ -13,10 +13,12 @@ Se debe tener instalado Kotlin en el computador, en su última versión.
 ## Unit Test
 Durante el unit test se dieron los siguientes resultados: 
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+<img src="tests.jpg" alt="tests"/>
 
 Por lo que podemos ver que se pasaron todos los tests que se encuentran en el archivo sampleTests.kt
 
 ## Code Coverage
 
 Una vez realizado el unit test se verificó la cobertura del código con ayuda de Kover, un plugin de Gradle para Kotlin que permite realizar tests y conseguir el code coverage de código tanto para Java como para Kotlin.
+
+<img src="codecoverage.jpg" alt="tests"/>
