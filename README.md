@@ -1,5 +1,5 @@
 # Pregunta 3 : Buddy System
-Este programa ejecuta una implementación de Buddy System basada en listas mutables de Kotlin que alojan los valores de los bloques vacíos y los tomados por algún identificador. La clase que controla el Buddy System se encuentra en el archivo BuddySystem.kt, el programa puede ser llamado al correro el archivo main.kt y en sampleTests.kt se encuentran las pruebas que se realizaron en el unit test.
+Este programa ejecuta una implementación en Kotlin de Buddy System basada en listas mutables de Kotlin que alojan los valores de los bloques vacíos y los tomados por algún identificador. La clase que controla el Buddy System se encuentra en el archivo BuddySystem.kt, el programa puede ser llamado al correro el archivo main.kt y en sampleTests.kt se encuentran las pruebas que se realizaron en el unit test.
 Además se encuentra en el archivo BuddySystemProject.zip el proyecto de Gradle completo que se utilizo para correr las pruebas y la cobertura del código.
 
 ## ¿Cómo correr el programa?
